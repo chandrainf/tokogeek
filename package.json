@@ -1,7 +1,7 @@
 {
   "name": "tokogeek",
   "version": "1.0.0",
-  "description": "full ecommerce site using MERN",
+  "description": "Full ecommerce site using MERN",
   "main": "server.js",
   "scripts": {
     "start": "SET node backend/server.js",
